@@ -1,5 +1,11 @@
+--------------------------------------
+cd djangogirls
+
 myvenv\Scripts\activate
 
+python manage.py runserver
+
+--------------------------------------
 
 python manage.py createsuperuser
 
@@ -11,3 +17,26 @@ ksuzaki312@gmail.com
 
 pass
 Kokke_312
+
+git config --global user.name "ksuzaki312@gmail.com"
+git config --global user.email ksuzaki312@gmail.com
+
+
+https://github.com/KosukeSuzaki/my-first-blog.git
+
+
+git update-git-for-windows
+
+git remote add origin https://github.com/KosukeSuzaki/my-first-blog.git
+git push -u origin master
+
+--------------------------------------
+
+【GitHub】
+Username:KosukeSuzaki
+pass:Kokke312
+
+
+
+
+pa_autoconfigure_django.py --python=3.6 https://github.com/KosukeSuzaki/my-first-blog.git
