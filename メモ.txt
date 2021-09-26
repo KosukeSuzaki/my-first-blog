@@ -1,0 +1,13 @@
+myvenv\Scripts\activate
+
+
+python manage.py createsuperuser
+
+username
+ksuzaki312@gmail.com]
+
+e-mail address
+ksuzaki312@gmail.com
+
+pass
+Kokke_312
